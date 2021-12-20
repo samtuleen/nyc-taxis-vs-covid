@@ -11,4 +11,5 @@ This project attempts to address the following questions on the effects of the c
 
 4- The most expensive day of the week to travel on and whether or not the pandemic affected this.
 
-
+# The Data
+The data was source from the NYC.gov website and can be found [here](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
