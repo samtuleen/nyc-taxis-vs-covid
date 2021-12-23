@@ -12,7 +12,7 @@
 ```
 
 ### Quick Links
-1. [Analysis Notebook](/report.ipynb/)
+1. [Analysis Notebook](/report_notebook.ipynb/)
 2. [Data Pre Processing](/data_cleaning.ipynb/)
 
 
