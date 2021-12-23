@@ -58,5 +58,4 @@ Thus, I've concluded that COVID-19 has negatively impacted the NYC taxi industry
 
 ### Question 4: What is the most expensive day of the week to travel and has the coronavirus changed it?
 * The most expensive day to travel did change from Thursday to Sunday, most likely due to the pandemic.
-
 * Fares have significantly decreased since pre-pandemic times by an average of $1.85 per trip.
