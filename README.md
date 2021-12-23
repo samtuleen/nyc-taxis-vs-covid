@@ -6,7 +6,7 @@
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── report.ipynb                        <- Narrative documentation of analysis in Jupyter notebook
+├── report_notebook.ipynb                        <- Narrative documentation of analysis in Jupyter notebook
 ├── data_cleaning.ipynb                 <- Data pre-processing notebook
 └── data_download.ipynb                 <- Notebook for downloading the data
 ```
