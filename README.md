@@ -28,7 +28,7 @@ This project attempts to address the following issues on the effects of the coro
 4- The most expensive day of the week to travel on and whether or not the pandemic affected this.
 ## Setup
 
-This project's environment is python3.yml
+This project's environment is python3.
 
 This analysis can be replicated in the following steps:
 
