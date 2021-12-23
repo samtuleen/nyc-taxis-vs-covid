@@ -7,6 +7,7 @@
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── report_notebook.ipynb               <- Narrative documentation of analysis in Jupyter notebook
+├── code_notebook.ipynb                 <- Analysis notebook with code only
 ├── data_cleaning.ipynb                 <- Data pre-processing notebook
 └── data_download.ipynb                 <- Notebook for downloading the data
 ```
@@ -34,7 +35,7 @@ This analysis can be replicated in the following steps:
 
 * 1- Run the data_download notebook [here](/data_download.ipynb/)
 * 2- Run the data_cleaning notebook [here](/data_cleaning.ipynb/)
-* 3- Run the report notebook [here](/report_notebook.ipynb/)
+* 3- Run the report notebook [here](/report_notebook.ipynb/) -or- code notebook [here](/code_notebook.ipynb/)
 
 # The Data
 The data was sourced from the NYC.gov website and can be found [here](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
