@@ -15,6 +15,7 @@
 1. [Analysis Notebook](/report_notebook.ipynb/)
 2. [Data Pre Processing](/data_cleaning.ipynb/)
 
+# This Project
 
 This project attempts to address the following issues on the effects of the corona virus on travel by taxi in NYC:
 
@@ -28,6 +29,16 @@ This project attempts to address the following issues on the effects of the coro
 
 # The Data
 The data was sourced from the NYC.gov website and can be found [here](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
+
+## Setup
+
+This project's environment is python3.yml
+
+This analysis can be replicated in the following steps:
+
+* 1- Run the data_download notebook [here](/data_download.ipynb/)
+* 2- Run the data_cleaning notebook [here](/data_cleaning.ipynb/)
+* 3- Run the report notebook [here](/report_notebook.ipynb/)
 
 ## Concluded Results
 
