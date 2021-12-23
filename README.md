@@ -26,10 +26,6 @@ This project attempts to address the following issues on the effects of the coro
 3- The most popular payment method and whether it changed as a result of the pandemic.
 
 4- The most expensive day of the week to travel on and whether or not the pandemic affected this.
-
-# The Data
-The data was sourced from the NYC.gov website and can be found [here](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
-
 ## Setup
 
 This project's environment is python3.yml
@@ -39,6 +35,9 @@ This analysis can be replicated in the following steps:
 * 1- Run the data_download notebook [here](/data_download.ipynb/)
 * 2- Run the data_cleaning notebook [here](/data_cleaning.ipynb/)
 * 3- Run the report notebook [here](/report_notebook.ipynb/)
+
+# The Data
+The data was sourced from the NYC.gov website and can be found [here](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
 
 ## Concluded Results
 
