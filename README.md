@@ -12,4 +12,25 @@ This project attempts to address the following questions on the effects of the c
 4- The most expensive day of the week to travel on and whether or not the pandemic affected this.
 
 # The Data
-The data was source from the NYC.gov website and can be found [here](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
+The data was sourced from the NYC.gov website and can be found [here](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
+
+# Concluded Results
+
+## Question 1: How has the coronavirus impacted the NYC taxi industry's revenue?
+* The overall amounts paid per trip has dropped significantly during 2019, especially during the month of April due to lack of demand.
+* Tip amounts have also generally decreased, especially in the months after March 2020, most likely due to a decrease in income and spending money as result of lockdowns and lay-offs.
+* The biggest jump in the passenger count per trip occured during April, during the first quarantine periods and most likely due to social distancing, with the passenger count somewhat declining overall during the pandemic. The majority count was 1 passenger per trip during both 2019 and 2020.
+Thus, I've concluded that COVID-19 has negatively impacted the NYC taxi industry's revenue by driving down fares, decreasing the number of trips, and decreasing the amount of tips received.
+
+## Question 2: What were the most and least expensive trips during and before the pandemic?
+* The most expensive paid trip in 2019 was on June 18th for 10,650.44 and was between Times Square and Windsor Terrace. The least expensive trip was 2.60 and occured on June 18th between Stuy Town/Peter Cooper Village and Ozone Park.
+* The most expensive trip during the pandemic was on December 20, 2020 for a total amount of 8361.36 and was between Westchester Village/Unionport and Co-Op City. The least expensive trip during the pandemic was on November 3, 2020 for 3.80. It occured between the two zones of DUMBO/Vinegar Hill and Dyker Heights.
+
+## Question 3: What was the most popular payment method and has this changed due to COVID-19?
+* Credit cards have always been the most popular transaction method, before and during the pandemic.
+* The use of cash has significantly decreased since 2019. It is safe to say that COVID-19 has not affected the most popular payment method, but it has most likely decreased the use of cash.
+
+## Question 4: What is the most expensive day of the week to travel and has the coronavirus changed it?
+* The most expensive day to travel did change from Thursday to Sunday, most likely due to the pandemic.
+
+* Fares have significantly decreased since pre-pandemic times by an average of $1.85 per trip.
