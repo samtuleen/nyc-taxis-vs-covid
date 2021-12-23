@@ -1,6 +1,19 @@
 ![nyctaxi](https://user-images.githubusercontent.com/71333855/146815346-8096cfaf-a4bb-482f-ba34-f49b33d72aaa.jpeg)
 
 # The Effects of COVID on the New York City Taxi Industry
+
+### Repository Directory
+
+```
+├── README.md                           <- The top-level README for reviewers of this project
+├── report.ipynb                        <- Narrative documentation of analysis in Jupyter notebook
+├── data_cleaning.ipynb                 <- Data cleaning notebook
+└── data_download.ipynb                 <- Notebook for downloading the data
+```
+
+### Quick Links
+
+
 This project attempts to address the following questions on the effects of the corona virus on travel by taxi in NYC:
 
 1- The economic impact of the pandemic on NYC taxi revenue.
