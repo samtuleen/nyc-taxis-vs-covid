@@ -42,7 +42,7 @@ The data was sourced from the NYC.gov website and can be found [here](https://ww
 ## Concluded Results
 
 ### Question 1: How has the coronavirus impacted the NYC taxi industry's revenue?
-* The overall amounts paid per trip has dropped significantly during 2019, especially during the month of April due to lack of demand.
+* The overall amounts paid per trip has dropped significantly during 2019, especially during the month of April due to a drop in demand.
 * Tip amounts have also generally decreased, especially in the months after March 2020, most likely due to a decrease in income and spending money as result of lockdowns and lay-offs.
 * The biggest jump in the passenger count per trip occured during April, during the first quarantine periods and most likely due to social distancing, with the passenger count somewhat declining overall during the pandemic. The majority count was 1 passenger per trip during both 2019 and 2020.
 Thus, I've concluded that COVID-19 has negatively impacted the NYC taxi industry's revenue by driving down fares, decreasing the number of trips, and decreasing the amount of tips received.
